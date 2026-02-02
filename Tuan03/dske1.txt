@@ -1,0 +1,10 @@
++ Dinh A: C, F, D, E, 
++ Dinh B: 
++ Dinh C: H, 
++ Dinh D: H, E, 
++ Dinh E: I, K, 
++ Dinh F: G, I, 
++ Dinh G: 
++ Dinh H: K, 
++ Dinh I: B, K, 
++ Dinh K: B, 

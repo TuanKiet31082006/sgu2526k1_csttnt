@@ -1,10 +1,11 @@
-+ Dinh A: C, F, D, E, 
-+ Dinh B: 
-+ Dinh C: H, 
-+ Dinh D: H, E, 
-+ Dinh E: I, K, 
-+ Dinh F: G, I, 
-+ Dinh G: 
-+ Dinh H: K, 
-+ Dinh I: B, K, 
-+ Dinh K: B, 
+10
+A: C F D E 
+B: 
+C: H 
+D: H E 
+E: I K 
+F: G I 
+G: 
+H: K 
+I: B K 
+K: B 
